@@ -2,9 +2,15 @@
 
 Meta-repo to provide links to Qubes utilities I've written.
 
+## Performance
+
 [Qubes QoS](https://github.com/Atrate/qubes-qos) - Proritise VMs' network traffic
 
 [Qubes Window Boost](https://github.com/Atrate/qubes-window-boost) - Dynamically pin Qubes domains to vCPUs based on the focused window
+
+[Qubes Auto Credit2](https://github.com/Atrate/qubes-auto-credit2) - Automatically set Xen credit2 scheduling parameters for Qubes 
+
+## Usability
 
 [Qubes User Data](https://github.com/Atrate/qubes-user-data) - Execute dom0-configured scripts in Disposable VMs (and other VMs) in QubesOS 
 

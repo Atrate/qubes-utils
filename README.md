@@ -10,7 +10,7 @@ Meta-repo to provide links to Qubes utilities I've written.
 
 [Qubes Nemo Context Actions](https://github.com/Atrate/qubes-nemo-context-actions) - Context actions for the Nemo file manager for Qubes OS 
 
-[Xentop Color](https://github.com/Atrate/xentop-color) - Monitor your Qubes/Xen deployment with pretty colours for `xentop`
+[Xentop Color](https://github.com/Atrate/xentop-color) - Monitor your Qubes/Xen deployment with pretty colors for `xentop`
 
 # Contributing
 

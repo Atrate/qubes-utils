@@ -6,6 +6,8 @@ Meta-repo to provide links to Qubes utilities I've written.
 
 [Qubes QoS](https://github.com/Atrate/qubes-qos) - Proritise VMs' network traffic
 
+[Qubes CPU Pinning](https://github.com/Atrate/Qubes-CPU-Pinning) -  Automatically pin Qubes VMs to CPU cores based on Qubes tags 
+
 [Qubes Window Boost](https://github.com/Atrate/qubes-window-boost) - Dynamically pin Qubes domains to vCPUs based on the focused window
 
 [Qubes Auto Credit2](https://github.com/Atrate/qubes-auto-credit2) - Automatically set Xen credit2 scheduling parameters for Qubes 

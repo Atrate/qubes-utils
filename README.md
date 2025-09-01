@@ -1,6 +1,6 @@
 # Qubes Utils
 
-Meta-repo to provide links to Qubes utilities I've written.
+Meta-repo to provide links to Qubes utilities I've written or adapted for my uses.
 
 ## Performance
 

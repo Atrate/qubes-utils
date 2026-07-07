@@ -20,6 +20,8 @@ Meta-repo to provide links to Qubes utilities I've written or adapted for my use
 
 [Xentop Color](https://github.com/Atrate/xentop-color) - Monitor your Qubes/Xen deployment with pretty colors for `xentop`
 
+[Xen CPUTop](https://github.com/Atrate/xen-cputop) - Monitor per-core CPU load on your Qubes/Xen deployment easily
+
 # Contributing
 
 Feel free to make PRs to any of the projects. I am also open for them being made into packages and integrated into the Qubes community repos, but make sure to contact me first.

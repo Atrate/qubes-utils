@@ -28,4 +28,4 @@ Feel free to make PRs to any of the projects. I am also open for them being made
 
 # License
 
-See the respective projects' pages for their licenses.
+See the respective projects' pages for their licenses (most are [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html)).

@@ -16,6 +16,8 @@ Meta-repo to provide links to Qubes utilities I've written or adapted for my use
 
 [Qubes User Data](https://github.com/Atrate/qubes-user-data) - Execute dom0-configured scripts in Disposable VMs (and other VMs) in QubesOS 
 
+[Qubes Auto Exec](https://github.com/Atrate/qubes-auto-exec) - Automatically execute commands in dom0 when a Qubes domU starts
+
 [Qubes Nemo Context Actions](https://github.com/Atrate/qubes-nemo-context-actions) - Context actions for the Nemo file manager for Qubes OS 
 
 [Xentop Color](https://github.com/Atrate/xentop-color) - Monitor your Qubes/Xen deployment with pretty colors for `xentop`
